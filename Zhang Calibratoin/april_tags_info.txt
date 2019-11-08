@@ -1,0 +1,21 @@
+## Tag size = 0.1315 m
+
+
+## corner pixel locations (clock-wise from top-left to bottom-right):
+
+# tag-id 24 (left)
+u v
+284.56243896 149.2925415
+373.93179321 128.26719666
+387.53588867 220.2270813
+281.29962158 241.72782898
+
+#tag-id 25 (right)
+u v
+428.86453247 114.50731659
+524.76373291 92.09218597
+568.3659668 180.55757141
+453.60995483 205.22370911
+
+
+## Distance between corner 2 of tag-1 and corner 1 of tag-2: 0.0790 m
